@@ -1,0 +1,17 @@
+# Vagrant
+.vagrant/
+*.box
+
+# Logs
+*.log
+
+# Editor and OS files
+.DS_Store
+.directory
+*~
+*.swp
+*.swo
+
+# IDEs
+.vscode/
+.idea/
